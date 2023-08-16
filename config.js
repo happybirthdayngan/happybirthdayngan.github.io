@@ -4,7 +4,7 @@ var config = {
         "Chúc em thật nhiều sức khỏe,",
         "luôn hạnh phúc,",
         "và vui vẻ trong cuộc đời này.",
-        "Happy Birthday To You ༼ つ ◕_◕ ༽つ",
+        "Happy Birthday To You<br>༼ つ ◕_◕ ༽つ",
     ],
     imgs: {
         "Cô bé dễ thương thân mến": "./imgs/1.jpg",
