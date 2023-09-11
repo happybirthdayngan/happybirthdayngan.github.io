@@ -1,6 +1,6 @@
 var config = {
     texts: [
-        "Cô bé dễ thương thân mến.",
+        "Cô bé dễ thương thân mến!",
         "Chúc em dồi dào sức khoẻ,",
         "luôn luôn vui vẻ,",
         "mãi mãi tươi trẻ,",
