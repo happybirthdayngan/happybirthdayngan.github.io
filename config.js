@@ -1,9 +1,10 @@
 var config = {
     texts: [
         "Cô bé dễ thương thân mến",
-        "Chúc em thật nhiều sức khỏe,",
-        "luôn hạnh phúc,",
-        "và vui vẻ trong cuộc đời này.",
+        "Chúc em dồi dào sức khoẻ,",
+        "luôn luôn vui vẻ,",
+        "mãi mãi tươi trẻ,",
+        "và mọi dự định suôn sẻ.",
         "Happy Birthday To You<br>༼ つ ◕_◕ ༽つ",
     ],
     imgs: {
@@ -12,7 +13,7 @@ var config = {
     desc: {
         turn_on: "BẬT ĐÈN",
         play: "PHÁT NHẠC",
-        bannar_coming: "BẮT ĐẦU TRANG TRÍ NÀO",
+        bannar_coming: "BẮT ĐẦU TRANG TRÍ",
         balloons_flying: "BÓNG BAY",
         cake_fadein: "BÁNH NGỌT",
         light_candle: "THẮP NẾN",
