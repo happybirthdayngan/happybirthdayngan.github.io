@@ -8,7 +8,7 @@ var config = {
         "Happy Birthday To You<br>༼ つ ◕_◕ ༽つ",
     ],
     imgs: {
-        "Cô bé dễ thương thân mến": "./imgs/1.jpg",
+        "Cô bé dễ thương thân mến!": "./imgs/1.jpg",
     },
     desc: {
         turn_on: "BẬT ĐÈN",
